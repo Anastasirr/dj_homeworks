@@ -12,6 +12,7 @@ env/
 venv/
 .venv/
 
+
 ### Project specific ###
 settings_local.py
 
